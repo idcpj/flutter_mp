@@ -10,7 +10,7 @@ author: yankang <1527997464@qq.com>
 
 
 environment:
-  sdk: '>=2.4.0 <3.0.0'
+  sdk: '>=2.4.0 <4.0.0'
 
 dependencies:
   args: ^1.5.0
